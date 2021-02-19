@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  background-color: #dbe2ef;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.62rem;
+  color: #112d4e;
+  line-height: 2;
+}
+
+hr {
+  border-style: solid none none none;
+  border-color: #112d4e;
+  border-width: 5px;
+  width: 15%;
+  line-height: 2;
+  margin: 100px auto;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  color: #112d4e;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #3f72af;
+}
+
+a {
+  color: #eaf6f6;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #3f72af;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  line-height: 2;
+  margin-bottom: 50px;
+  margin: 100px 0 100px 0;
+}
+
+.bottom-container {
+  background-color: #3f72af;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  width: 25%;
+  height: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.math-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  color: #eaf6f6;
+  line-height: 2;
+}
+
+.footer-link:hover{
+  color: #112d4e;
+}
+
+.copyright {
+  color: #eaf6f6;
+}
+
+.btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 40px;
+  color: #EAF6F6;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #3f72af;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover{
+  background-color: #eaf6f6;
+  color: #4f72af;
+}
+
+.intro {
+  width: 30%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 40px;
+}
+
+.copyrightbtn{
+  color: #EAF6F6;
+  font: .76rem;
+  padding: 20px 0;
+}
